@@ -1,7 +1,6 @@
 
-# ***<h3 align="center">Hi there, I'm <a href="https://github.com/karamanets" target="_blank">Alex Karamanets</a>***   :zap:
-
-____
+***<h3 align="center"> :tophat: Hi there, I'm <a href="https://github.com/karamanets" target="_blank">Alex Karamanets</a>***  :tophat:
+# 
 
 ![](https://img.shields.io/cocoapods/p/ios?color=%239356A0&label=Swift&logo=Swift&logoColor=%239356A0&style=plastic)  ![](https://img.shields.io/cocoapods/p/ios?color=%239356A0&label=SwiftUi&logo=Swift&logoColor=%239356A0&style=plastic)  ![](https://img.shields.io/cocoapods/p/ios?color=%239356A0&label=UiKit&logo=UIkit&logoColor=%239356A0&style=plastic)
 
@@ -19,11 +18,11 @@ ____
 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9356A0&width=435&lines=A+little+bit+about+me" alt="Typing SVG" /></a>  <p><img align="right" src="https://github.com/karamanets/karamanets/blob/main/logo2.gif" width="300" height="200" /></p>
-#### :mortar_board: ***Hi my name is Alex.*** 
+#### :mortar_board: ***Hi, my name is Alex*** 
 #### :calling: ***I develop mobile applications for IOS*** 
 #### :computer: ***I program in Swift***
 #### :school_satchel: ***Here you can find all my public works*** 
-#### :guitar: ***I play a little guitar, I'm also a fan of Stargate and Star Wars***  <img src="https://github.com/karamanets/karamanets/blob/main/logo3.png" width="530" height="120">
+#### :guitar: ***I play a little bit of the guitar, I'm also a fan of Stargate and Star Wars***  <img src="https://github.com/karamanets/karamanets/blob/main/logo3.png" width="530" height="120">
 
  
 ____
