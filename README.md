@@ -1,6 +1,6 @@
 
 <center>
-<img src="https://github.com/karamanets/karamanets/blob/main/logo.png" width="1000" height="200"> 
+<img src="" width="1000" height="200"> 
 <center>
 
 ### <h1 align="center">Hi there, I'm <a href="https://github.com/karamanets" target="_blank">Alex Karamanets</a>   :zap:
