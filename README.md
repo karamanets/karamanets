@@ -4,7 +4,7 @@
 ![](https://img.shields.io/cocoapods/p/ios?color=%239356A0&label=Swift&logo=Swift&logoColor=%239356A0&style=plastic)  ![](https://img.shields.io/cocoapods/p/ios?color=%239356A0&label=SwiftUi&logo=Swift&logoColor=%239356A0&style=plastic)  ![](https://img.shields.io/cocoapods/p/ios?color=%239356A0&label=UiKit&logo=UIkit&logoColor=%239356A0&style=plastic)
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9356A0&width=435&lines=A+little+bit+about+me" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9356A0&width=435&lines=A+little+bit+about+me" alt="Typing SVG" /></a>  <p><img align="right" src="https://github.com/karamanets/karamanets/blob/main/logo2.gif" width="300" height="200" /></p>
 #### :mortar_board: ***Hi my name is Alex.*** 
 #### :calling: ***I develop mobile applications for ios*** 
 #### :computer: ***I write in Swift***
@@ -23,7 +23,6 @@ ____
 
 
 
-<gif src=". " width="200" height="200"> 
 
 
 
