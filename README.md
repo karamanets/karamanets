@@ -1,7 +1,19 @@
 
-### <h1 align="center">Hi there, I'm <a href="https://github.com/karamanets" target="_blank">Alex Karamanets</a>   :zap:
+## ***<h1 align="center">Hi there, I'm <a href="https://github.com/karamanets" target="_blank">Alex Karamanets</a>***   :zap:
 
 ![](https://img.shields.io/cocoapods/p/ios?color=%239356A0&label=Swift&logo=Swift&logoColor=%239356A0&style=plastic)  ![](https://img.shields.io/cocoapods/p/ios?color=%239356A0&label=SwiftUi&logo=Swift&logoColor=%239356A0&style=plastic)  ![](https://img.shields.io/cocoapods/p/ios?color=%239356A0&label=UiKit&logo=UIkit&logoColor=%239356A0&style=plastic)
+
+
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9356A0&width=435&lines=My+social+networks" alt="Typing SVG" /></a>
+
+
+   :pushpin: [Twitter](...)
+   
+   :pushpin: [Linkedin](https://www.linkedin.com/in/alexander-karamanets-b002a725a/) 
+
+
+____
 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9356A0&width=435&lines=A+little+bit+about+me" alt="Typing SVG" /></a>  <p><img align="right" src="https://github.com/karamanets/karamanets/blob/main/logo2.gif" width="300" height="200" /></p>
@@ -9,7 +21,9 @@
 #### :calling: ***I develop mobile applications for ios*** 
 #### :computer: ***I write in Swift***
 #### :school_satchel: ***Here you can find all my public works*** 
-#### :guitar: ***I play a bit of guitar and am a Stargate fan***
+#### :guitar: ***I play a little guitar, I'm also a fan of Stargate and Star Wars***  <img src="https://github.com/karamanets/karamanets/blob/main/logo3.png" width="530" height="120">
+
+ 
 ____
  
  
@@ -18,7 +32,9 @@ ____
  
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9356A0&width=435&lines=Just+try+it+simply" alt="Typing SVG" /></a>
 
-[![codewars](https://www.codewars.com/users/Mr_Lucius/badges/large)](https://www.codewars.com/users/Mr_Lucius)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=karamanets&theme=cobalt&border_radius=0&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+
+[![codewars](https://www.codewars.com/users/Mr_Lucius/badges/large)](https://www.codewars.com/users/Mr_Lucius)  
 
 
 
