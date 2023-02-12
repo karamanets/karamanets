@@ -1,8 +1,4 @@
 
-<center>
-<img src="" width="1000" height="200"> 
-<center>
-
 ### <h1 align="center">Hi there, I'm <a href="https://github.com/karamanets" target="_blank">Alex Karamanets</a>   :zap:
 
 ![](https://img.shields.io/cocoapods/p/ios?color=%239356A0&label=Swift&logo=Swift&logoColor=%239356A0&style=plastic)  ![](https://img.shields.io/cocoapods/p/ios?color=%239356A0&label=SwiftUi&logo=Swift&logoColor=%239356A0&style=plastic)  ![](https://img.shields.io/cocoapods/p/ios?color=%239356A0&label=UiKit&logo=UIkit&logoColor=%239356A0&style=plastic)
