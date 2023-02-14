@@ -2,16 +2,16 @@
 ***<h3 align="center"> <a href="https://github.com/karamanets" target="_blank">Alex Karamanets</a>***  :crystal_ball:
 # 
 
-![](https://img.shields.io/cocoapods/p/ios?color=%239356A0&label=Swift&logo=Swift&logoColor=%239356A0&style=plastic)  ![](https://img.shields.io/cocoapods/p/ios?color=%239356A0&label=SwiftUi&logo=Swift&logoColor=%239356A0&style=plastic)  ![](https://img.shields.io/cocoapods/p/ios?color=%239356A0&label=UiKit&logo=UIkit&logoColor=%239356A0&style=plastic)
+ ![Twitter URL](https://img.shields.io/twitter/url?color=%239356A0&label=Twitter&logo=Twitter&style=plastic&url=https%3A%2F%2Ftwitter.com%2FAlexKaramanets)  ![](https://img.shields.io/cocoapods/p/ios?color=%239356A0&label=Swift&logo=Swift&logoColor=%239356A0&style=plastic)  ![](https://img.shields.io/cocoapods/p/ios?color=%239356A0&label=SwiftUi&logo=Swift&logoColor=%239356A0&style=plastic)  ![](https://img.shields.io/cocoapods/p/ios?color=%239356A0&label=UiKit&logo=UIkit&logoColor=%239356A0&style=plastic) ![Cocoapods platforms](https://img.shields.io/cocoapods/p/IO?color=%239356A0&label=UI-UX%20design&logo=GitHub&logoColor=%239356A0&style=plastic) ![GitHub contributors](https://img.shields.io/github/contributors/karamanets/karamanets?color=green&logo=GitHub&logoColor=%239356A0&style=plastic)
 
 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9356A0&width=435&lines=My+social+networks" alt="Typing SVG" /></a>
 
 
-   :pushpin: [Twitter](...)
+  ![picture1](https://github.com/karamanets/karamanets/blob/main/icon/Twitter.png) [Twitter](https://twitter.com/AlexKaramanets)
    
-   :pushpin: [Linkedin](https://www.linkedin.com/in/alexander-karamanets-b002a725a/) 
+  ![picture1](https://github.com/karamanets/karamanets/blob/main/icon/Linkedin.png) [Linkedin](https://www.linkedin.com/in/alexander-karamanets-b002a725a/) 
 
 
 ____
