@@ -12,9 +12,9 @@
 
 
 <!--- Link --->
-![picture1](https://github.com/karamanets/karamanets/blob/main/icon/Twitter.png) [Twitter](https://twitter.com/AlexKaramanets)
+<img src="https://github.com/karamanets/karamanets/blob/main/icon/Twitter.gif" width="25" height="25"> [Twitter](https://twitter.com/AlexKaramanets)   
  
-![picture1](https://github.com/karamanets/karamanets/blob/main/icon/Linkedin.png) [Linkedin](https://www.linkedin.com/in/alexander-karamanets-b002a725a/) 
+<img src="https://github.com/karamanets/karamanets/blob/main/icon/Linkedin-2.gif" width="25" height="25"> [Linkedin](https://www.linkedin.com/in/alexander-karamanets-b002a725a/) 
 
 ____
 
