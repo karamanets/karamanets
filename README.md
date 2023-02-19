@@ -36,11 +36,11 @@ ____
  
  
 
-
- <img src="https://github.com/karamanets/karamanets/blob/main/icon/Stack.png" width="530" height="220">
+<!--- Stack --->
+ <img src="https://github.com/karamanets/karamanets/blob/main/icon/Stack.png" width="530" height="200">
  
- 
- <img src="https://github.com/karamanets/karamanets/blob/main/logo3.png" width="530" height="120">
+<!--- sabur --->
+<img src="https://github.com/karamanets/karamanets/blob/main/logo3.png" width="530" height="120">
  
 ____
  
