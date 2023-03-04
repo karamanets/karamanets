@@ -20,7 +20,7 @@ ____
 
  
 <!--- GIF iPhone --->
-<p><img align="right" src="https://github.com/karamanets/StoreView/blob/main/icons/GIF.gif" width="300" height="600" /></p>
+<p><img align="right" src="https://github.com/karamanets/StoreView/blob/main/icons/store.gif" width="300" height="600" /></p>
  
 <!--- Typing --->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9356A0&width=435&lines=A+little+bit+about+me" alt="Typing SVG" /></a>  
