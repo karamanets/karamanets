@@ -4,7 +4,6 @@
 # 
 
 <!--- shields --->
- ![Twitter URL](https://img.shields.io/twitter/url?color=%239356A0&label=Twitter&logo=Twitter&style=plastic&url=https%3A%2F%2Ftwitter.com%2FAlexKaramanets)  ![](https://img.shields.io/cocoapods/p/ios?color=%239356A0&label=Swift&logo=Swift&logoColor=%239356A0&style=plastic)  ![](https://img.shields.io/cocoapods/p/ios?color=%239356A0&label=SwiftUi&logo=Swift&logoColor=%239356A0&style=plastic)  ![](https://img.shields.io/cocoapods/p/ios?color=%239356A0&label=UiKit&logo=UIkit&logoColor=%239356A0&style=plastic) ![Cocoapods platforms](https://img.shields.io/cocoapods/p/IO?color=%239356A0&label=UI-UX%20design&logo=GitHub&logoColor=%239356A0&style=plastic) ![GitHub contributors](https://img.shields.io/github/contributors/karamanets/karamanets?color=green&logo=GitHub&logoColor=%239356A0&style=plastic)
 
  
 <!--- Typing --->
