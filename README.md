@@ -48,7 +48,7 @@ ____
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=435&pause=1000&color=9356A0&random=false&width=435&lines=My+apps+on+the+App+Store" alt="Typing SVG" /></a>
 
 <!--- Links to App Store--->
-<img src="https://github.com/karamanets/karamanets/blob/main/icon/NeuronLogo.png" width="95" height="95">
+<img src="https://github.com/karamanets/karamanets/blob/main/icon/NeuronLogo.png" width="93" height="93">
 
 [Neuron Flash](https://apps.apple.com/ua/app/neuron-flash/id6470381263?l=en&platform=iphone)  
 
