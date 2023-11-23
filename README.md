@@ -11,9 +11,9 @@
 
 
 <!--- Link --->
-<img src="https://github.com/karamanets/karamanets/blob/main/icon/Twitter.gif" width="25" height="25"> [Twitter](https://twitter.com/AlexKaramanets)   
+<img src="https://github.com/karamanets/karamanets/blob/main/icon/Twitter.gif" width="40" height="40"> [Twitter Link](https://twitter.com/AlexKaramanets)   
  
-<img src="https://github.com/karamanets/karamanets/blob/main/icon/Linkedin-2.gif" width="25" height="25"> [Linkedin](https://www.linkedin.com/in/alexander-karamanets-b002a725a/) 
+<img src="https://github.com/karamanets/karamanets/blob/main/icon/Linkedin-2.gif" width="40" height="40"> [Linkedin Link](https://www.linkedin.com/in/alexander-karamanets-b002a725a/) 
 
 ____
 
@@ -48,7 +48,7 @@ ____
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=435&pause=1000&color=9356A0&random=false&width=435&lines=My+apps+on+the+App+Store" alt="Typing SVG" /></a>
 
 <!--- Links to App Store--->
-<img src="https://github.com/karamanets/karamanets/blob/main/icon/NeuronLogo.png" width="93" height="93">
+<img src="https://github.com/karamanets/karamanets/blob/main/icon/NeuronLogo.png" width="80" height="80">
 
 [Neuron Flash](https://apps.apple.com/ua/app/neuron-flash/id6470381263?l=en&platform=iphone)  
 
