@@ -26,22 +26,25 @@
  
 <!--- sabur --->
 <img src="https://github.com/karamanets/karamanets/blob/main/icon/Lightsaber.png" width="530" height="120">
- 
-
 
 <!--- Typing App Store --->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=435&pause=1000&color=9356A0&random=false&width=435&lines=My+apps+on+the+App+Store" alt="Typing SVG" /></a>
+
+ <h4 align="center">  
 
 <!--- Links to App Store--->
 <img src="https://github.com/karamanets/karamanets/blob/main/icon/NeuronLogo.png" width="80" height="80">
 
 [Neuron Flash](https://apps.apple.com/ua/app/neuron-flash/id6470381263?l=en&platform=iphone)  
 
+
 ____
+
+<h5 align="lefth">
  
 <!--- Typing Screens --->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9356A0&width=435&lines=Just+try+it+simply" alt="Typing SVG" /></a>
- 
+
  
 <!--- Statistic --->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=karamanets&theme=cobalt&border_radius=0&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
