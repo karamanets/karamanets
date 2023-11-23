@@ -2,21 +2,6 @@
 <!--- LOGO --->
 ***<h3 align="center"> <a href="https://github.com/karamanets" target="_blank">Alex Karamanets</a>***  :crystal_ball:
 # 
-
-<!--- shields --->
-
- 
-<!--- Typing My social networks--->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9356A0&width=435&lines=My+social+networks" alt="Typing SVG" /></a>
-
-
-<!--- Link --->
-<img src="https://github.com/karamanets/karamanets/blob/main/icon/Twitter.gif" width="40" height="40"> [Twitter Link](https://twitter.com/AlexKaramanets)   
- 
-<img src="https://github.com/karamanets/karamanets/blob/main/icon/Linkedin-2.gif" width="40" height="40"> [Linkedin Link](https://www.linkedin.com/in/alexander-karamanets-b002a725a/) 
-
-____
-
  
 <!--- GIF iPhone --->
 <p><img align="right" src="https://github.com/karamanets/StoreView/blob/main/icons/store.gif" width="300" height="600" /></p>
