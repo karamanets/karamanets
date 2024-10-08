@@ -16,7 +16,7 @@
 #### :calling: ***I develop mobile applications for [IOS](https://en.wikipedia.org/wiki/IOS)*** 
 #### :computer: ***I program in [Swift](https://developer.apple.com/swift/)***
 #### :school_satchel: ***You can find all my public works*** [here](https://github.com/karamanets?tab=repositories)
-#### :earth_americas: ***Languages : Ukrainian, Russian, English ( B1 )***
+#### :earth_americas: ***Languages : Ukrainian, Russian, English ( B2 )***
 #### :guitar: ***I play a little bit of the guitar, I'm also a fan of [Stargate](https://giphy.com/gifs/reactiongifs-mrw-netflix-s8X61m47R3GZW) and [Star Wars](https://giphy.com/gifs/star-wars-han-solo-rHR8qP1mC5V3G)*** 
  
  
