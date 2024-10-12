@@ -33,10 +33,7 @@
  <h4 align="center">  
 
 <!--- Links to App Store--->
-<img src="https://github.com/karamanets/karamanets/blob/main/icon/NeuronLogo.png" width="80" height="80">
-
-[Neuron Flash](https://apps.apple.com/ua/app/neuron-flash/id6470381263?l=en&platform=iphone)  
-
+[<img src="https://github.com/karamanets/karamanets/blob/main/icon/NeuronLogo.png" width="80" height="80">](https://apps.apple.com/ua/app/neuron-flash/id6470381263?l=en&platform=iphone) [<img src="https://github.com/karamanets/MandalaBreath/blob/main/Images/Mandala.png" width="80" height="80">](https://apps.apple.com/us/app/mandala-breath/id6683299961?l=en&platform=iphone)
 
 ____
 
